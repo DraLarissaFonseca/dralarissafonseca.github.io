@@ -8,10 +8,31 @@ nav {
   height: 46px;
 }
 
+ul {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+  padding-top: 14px;
+  justify-content: space-between;
+}
+
 ul li {
   display: inline-block;
 }
 
 ul li a, ul li a:visited {
   text-decoration: none;
+  color: white;
+}
+
+ul li a:hover {
+  color: black;
+}
+
+.front-pics {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
