@@ -6,6 +6,7 @@ import insta from './assets/insta.png';
 import pic1 from './assets/pic1.jpeg';
 import pic2 from './assets/pic2.jpeg';
 import pic3 from './assets/pic3.jpeg';
+import profile from './assets/profile.jpeg';
 
 import './App.css';
 
@@ -39,9 +40,9 @@ function App() {
         </nav>
       </header>
       <div className="front-pics">
-        <img src={pic1} alt="pic1" width="450" height="300" />
-        <img src={pic2} alt="pic2" width="450" height="300" />
-        <img src={pic3} alt="pic3" width="450" height="300" />
+        <img src={pic1} alt="pic1" width="428" height="300" />
+        <img src={pic2} alt="pic2" width="428" height="300" />
+        <img src={pic3} alt="pic3" width="428" height="300" />
       </div>
       <div className="pics-bottom">
         <svg xmlns="http://www.w3.org/2000/svg" className="border-bottom-svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -51,8 +52,9 @@ function App() {
         </svg>
       </div> 
       <div className="description-div" id="quem-sou">
-        <img src={pic1} width="350" height="250" alt="quem-sou" />
+        <img src={profile} alt="quem-sou" />
         <div>
+          <h4>Dra. Larissa Fonseca - Fisioterapeuta</h4>
           <p>
             Somos uma clínica multidisciplinar localizada no bairro de São Francisco, em Niterói. Desde 2007, zelamos pelo bem-estar e satisfação de nossos pacientes e clientes de todas as idades.
             Contamos com uma equipe de Fisioterapeutas, Médicos, Traumato-ortopedistas, Educadores Físicos, Nutricionista e Psicólogos.
@@ -101,8 +103,8 @@ function App() {
           </div>
           <div className="contacts">
             <h3>CONTATOS</h3>
-            <p>Telefone: (21) 994208886</p>
-            <p>Whatsapp: (21) 994208886</p>
+            <p>Telefone: (21) 9 9420-8886</p>
+            <p>Whatsapp: (21) 9 9420-8886</p>
             <p>E-mail: larissatf@yahoo.com.br</p>
           </div>
         </div>
