@@ -56,10 +56,7 @@ function App() {
         <div>
           <h4>Dra. Larissa Fonseca - Fisioterapeuta</h4>
           <p>
-            Somos uma clínica multidisciplinar localizada no bairro de São Francisco, em Niterói. Desde 2007, zelamos pelo bem-estar e satisfação de nossos pacientes e clientes de todas as idades.
-            Contamos com uma equipe de Fisioterapeutas, Médicos, Traumato-ortopedistas, Educadores Físicos, Nutricionista e Psicólogos.
-            Oferecemos aulas de Pilates, Atividades Aquáticas com piscina coberta e aquecida, Academia de Musculação e Terapias Alternativas.
-            Nossa missão é proporcionar saúde, bem-estar e qualidade de vida aos nossos clientes com excelência em todos os atendimentos.
+          Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.
           </p>
         </div>
       </div>
