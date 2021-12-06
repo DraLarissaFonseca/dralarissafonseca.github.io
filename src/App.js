@@ -69,18 +69,24 @@ function App() {
       </div>
       <div id="especialidades">
           <h2>CURSOS / ESPECIALIZAÇÕES</h2>
-        <div className="specialties-list">
-          <ul>
-            <li>RPG Método Phillippe Souchard</li>
-            <li>Mobilização e manipulação vertebral</li>
-            <li>Pilates solo</li>
-            <li>Ventosaterapia</li>
-            <li>Kinesio tape</li>
-            <li>Terapia antiestresse com massoterapia</li>
-            <li>Redução de estrias e celulites </li>
-            <li>Fisioterapia traumato ortopédica - desportiva - neurológica - reabilitação funcional.</li>
-          </ul>
-        </div>
+          <div className="specialties-block">
+            <div className="specialties-list">
+              <ul>
+                <li>RPG Método Phillippe Souchard</li>
+                <li>Mobilização e manipulação vertebral</li>
+                <li>Pilates solo</li>
+                <li>Ventosaterapia</li>
+              </ul>
+            </div>
+            <div className="specialties-list">
+              <ul>
+                <li>Kinesio tape</li>
+                <li>Terapia antiestresse com massoterapia</li>
+                <li>Redução de estrias e celulites </li>
+                <li>Fisioterapia traumato ortopédica - desportiva - neurológica - reabilitação funcional.</li>
+              </ul>
+            </div>
+          </div>
         
       </div>
       <div className="pics-bottom">
