@@ -55,9 +55,9 @@ function App() {
         <img src={profile} alt="quem-sou" />
         <div>
           <h4>Dra. Larissa Fonseca - Fisioterapeuta</h4>
+          <h4>CREFITO 2: 322000-F</h4>
           <p>
-          Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.
-          </p>
+          Formada em Fisioterapia e especializada em mobilização e manipulação vertebral, RPG: Reeducação Postural Global, Pilates, Ventosaterapia, Kinesio Tape, Terapias antiestresse com técnicas de massagem com pedras quentes, bambus e Pantalas . Tenho como objetivo o atendimento humanizado, com cuidado, respeito e atenção. Demostrando experiência na prestação de atendimento domiciliar voltado para a prevenção, diagnóstico e tratamento, realizando técnicas para restauração e desenvolvimento da capacidade física e funcional do paciente.          </p>
         </div>
       </div>
       <div className="pics-top" data-negative="false">
@@ -68,12 +68,17 @@ function App() {
         </svg>
       </div>
       <div id="especialidades">
-          <h2>ESPECIALIDADES</h2>
+          <h2>CURSOS / ESPECIALIZAÇÕES</h2>
         <div className="specialties-list">
           <ul>
-            <li>Fisioterapia</li>
-            <li>Pilates</li>
-            <li>RPG</li>
+            <li>RPG Método Phillippe Souchard</li>
+            <li>Mobilização e manipulação vertebral</li>
+            <li>Pilates solo</li>
+            <li>Ventosaterapia</li>
+            <li>Kinesio tape</li>
+            <li>Terapia antiestresse com massoterapia</li>
+            <li>Redução de estrias e celulites </li>
+            <li>Fisioterapia traumato ortopédica - desportiva - neurológica - reabilitação funcional.</li>
           </ul>
         </div>
         
